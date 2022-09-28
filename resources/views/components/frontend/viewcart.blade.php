@@ -1,0 +1,1 @@
+<a href="{{$path}}cart" class="single-icon"><i class="ti-bag"></i> <span class="total-count">{{$count}}</span></a>
